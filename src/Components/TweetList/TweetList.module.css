@@ -1,0 +1,32 @@
+.cardGrid {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+.loadMoreBtn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #593e99;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+
+  color: #ebd8ff;
+  border: none;
+  border-radius: 11px;
+  cursor: pointer;
+}
+
+.loadMoreBtn:hover {
+  background: #331f62;
+}
+
+.loadMoreBtn:focus {
+  outline: none;
+}

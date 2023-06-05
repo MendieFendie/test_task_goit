@@ -11,8 +11,3 @@ The TweetCard React component is a reusable card component that displays user in
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/tweet-card-component.git
-   ```
